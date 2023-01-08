@@ -7,7 +7,7 @@ Para realizar la instalación debemos descargarnos <a href="https://drive.google
 <b>EN</b> <br>
 A bash script, for UNIX based systems, to automate the configuration of RTL8761B &amp; RTL8761BU Bluetooth 5.0 USB. Based in the YouTube video <a href="https://youtu.be/GjwrQ6Nnp_c">RTL8761B & RTL8761BU Bluetooth 5.0 USB Ubuntu 20.04.2 LTS | Linux</a><br>
 <i>Instalation</i><br>
-To install, we must download <a href="https://drive.google.com/file/d/1FkzIOuNAc1HErqbhkmbkwEisviAQP2IC/view">the files provided in the video</a> download the Script (RTL8761B-RTL8761BU-automation. sh ), keep them in the same folder/directory, open a terminal, give the script permission with: <i>chmod +x RTL8761B-RTL8761BU-automation.sh</i> and run it with <i>./RTL8761B-RTL8761BU-automation .sh</i>
+To install, we must download <a href="https://drive.google.com/file/d/1FkzIOuNAc1HErqbhkmbkwEisviAQP2IC/view">the files provided in the video</a> download the Script (RTL8761B-RTL8761BU-automation_EN.sh), keep them in the same folder/directory, open a terminal, give the script permission with: <i>chmod +x RTL8761B-RTL8761BU-automation.sh</i> and run it with <i>./RTL8761B-RTL8761BU-automation .sh</i>
 
 <b>Antes de la instalación, no nos da dispositivo a elegir / Before installation, it does not give us a device to choose</b>
 <img height="600px" weight="auto" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gMl28NzRDLn8H7KlmOE54Db-fhFBGfJmPumywqFmYdkv-ozAsluIzZUNEDXKu1Yyk-iwA8G4QZGOvDfv68myLrP0NMR2g=w1920-h929"><br><br>
