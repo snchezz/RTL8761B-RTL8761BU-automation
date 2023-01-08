@@ -13,9 +13,9 @@ A bash script, for UNIX based systems, to automate the configuration of RTL8761B
 
 <img height="400px" weight="auto" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gMl28NzRDLn8H7KlmOE54Db-fhFBGfJmPumywqFmYdkv-ozAsluIzZUNEDXKu1Yyk-iwA8G4QZGOvDfv68myLrP0NMR2g=w1920-h929">
 
-<img height="400px" weight="auto" src="https://lh3.google.com/u/0/d/1mZDJUidgJPaKj61w1eQ5EJ0MzxP6Bm7A=w1920-h929-iv1">
+<img height="400px" weight="auto" src="https://lh3.googleusercontent.com/u/0/d/1mZDJUidgJPaKj61w1eQ5EJ0MzxP6Bm7A=w1920-h929-iv1">
  
- <img height="400px" weight="auto" src="https://lh3.google.com/u/0/d/1VOFNML6ZY9EFm76xLEAebOIX4zRyUx0I=w1365-h929-iv1">
+<img height="400px" weight="auto" src="https://lh3.googleusercontent.com/u/0/d/1VOFNML6ZY9EFm76xLEAebOIX4zRyUx0I=w1365-h929-iv1">
 
 
-<img height="400px" weight="auto" src="https://lh3.google.com/u/0/d/110Rk8s3NhLxwLYbWG_EHpZIQ35wNw_u9=w1365-h929-iv1">
+<img height="400px" weight="auto" src="https://lh3.googleusercontent.com/u/0/d/110Rk8s3NhLxwLYbWG_EHpZIQ35wNw_u9=w1365-h929-iv1">
