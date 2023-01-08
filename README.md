@@ -1,6 +1,6 @@
 # RTL8761B-RTL8761BU-automation
 <b>ES</b><br>
-Un script bash, para sistemas basados en UNIX, para automatizar la configuración de RTL8761B y RTL8761BU Bluetooth 5.0 USB. Basado en el video de YouTube <a src="https://youtu.be/GjwrQ6Nnp_c">RTL8761B & RTL8761BU Bluetooth 5.0 USB Ubuntu 20.04.2 LTS | Linux</a>
+Un script bash, para sistemas basados en UNIX, para automatizar la configuración de RTL8761B y RTL8761BU Bluetooth 5.0 USB. Basado en el video de YouTube <a href="https://youtu.be/GjwrQ6Nnp_c">RTL8761B & RTL8761BU Bluetooth 5.0 USB Ubuntu 20.04.2 LTS | Linux</a>
 
 
  <br>
